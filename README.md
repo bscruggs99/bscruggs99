@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bscruggs99
 - 👀 I’m interested in various programming languages
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on any projects that will help me learn
 - 📫 How to reach me: bscruggs99@gmail.com or https://www.linkedin.com/in/david-b-scruggs/
 
